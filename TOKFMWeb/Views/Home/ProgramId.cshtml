@@ -1,0 +1,26 @@
+﻿@model  List<TOKFMWeb.Helpers.Item>
+
+<div id="odswiez">
+    @Html.Partial("_AudioPlayer", Model[0])
+</div>
+
+<br />
+<img src='@ViewBag.ImageUrl' width="310" height="140" /><br /><br />
+
+@foreach (var item in Model)
+{
+    <h5>
+        @Ajax.ActionLink(@DateTime.Parse(@item.PubDate.Text, new System.Globalization.CultureInfo("pl-PL")) + " - " + @item.Title,
+                           "AudioPlayer",
+                    new { id = item.Guid.Text },
+                    new AjaxOptions
+                    {
+                        UpdateTargetId = "odswiez",
+                        InsertionMode = InsertionMode.Replace,
+                        HttpMethod = "GET",
+                    })
+    </h5>
+}
+
+
+

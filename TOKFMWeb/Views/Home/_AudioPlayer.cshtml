@@ -1,0 +1,16 @@
+﻿@model TOKFMWeb.Helpers.Item
+
+<style>
+    audio {
+        width: 100%;
+        /*max-width: 1000px;*/
+        height: auto;
+        align-content: center;
+    }
+</style>
+
+<div id="audioPlayer">
+    <h4>@Model.Title</h4>
+    <audio src="@Model.Enclosure.Url" type="audio/mp3" controls="controls" />
+</div>
+

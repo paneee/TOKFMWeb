@@ -1,0 +1,50 @@
+﻿@model  List<TOKFMWeb.Models.ProgramView>
+
+
+@{
+    int i = 0;
+}
+
+
+<div id="odswiez">
+    @Html.Partial("_AudioPlayer", Model[0].Feed[0])
+</div>
+
+<table>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src='@Url.Content(@item.Link)' width="310" height="140" />
+            </td>
+            <td valign="top">
+                @{ i = 0;}
+                @foreach (var it in item.Feed)
+                {
+                    i++;
+                    if (i < 4)
+                    {
+                        <h5>
+                            @Ajax.ActionLink(@DateTime.Parse(@it.PubDate.Text, new System.Globalization.CultureInfo("pl-PL")).ToShortDateString() + " - " +
+                                                @DateTime.Parse(@it.PubDate.Text, new System.Globalization.CultureInfo("pl-PL")).ToShortTimeString() + " - " +
+                                                (@it.Duration) + " - " + (@it.Title),
+                           "AudioPlayer",
+                    new { id = it.Guid.Text },
+                    new AjaxOptions
+                    {
+                        UpdateTargetId = "odswiez",
+                        InsertionMode = InsertionMode.Replace,
+                        HttpMethod = "GET",
+                    })
+                        </h5>
+                    }
+                    else
+                    {
+                        @Html.ActionLink("Wiecej audycji...", "ProgramId", "Home", new { id = item.Id.ToString() }, null);
+                        break;
+                    }
+                }
+            </td>
+        </tr>
+                    }
+</table>

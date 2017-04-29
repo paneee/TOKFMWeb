@@ -1,0 +1,44 @@
+﻿@model  TOKFMWeb.Helpers.Rss
+
+
+<div id="odswiez">
+    @Html.Partial("_AudioPlayer", Model.Channel.Items[0])
+</div>
+
+
+<table>
+    @foreach (var item in Model.Channel.Items)
+    {
+        <tr>
+            <th rowspan="3">
+                <img src='@Url.Content(@item.Image2.Href)' width="310" height="140" />
+            </th>
+            <th valign="top">
+                <h4>
+                    @Ajax.ActionLink(@item.Title, "AudioPlayer",
+                    new { id = item.Guid.Text },
+                    new AjaxOptions
+                    {
+                        UpdateTargetId = "odswiez",
+                        InsertionMode = InsertionMode.Replace,
+                        HttpMethod = "GET",
+                    })
+                </h4>
+            </th>
+        </tr>
+        <tr>
+            @if (@item.Summary.Count() > 310)
+                {
+                <td><h6>@item.Summary.Substring(0, 280)... </h6></td>
+            }
+            else
+            {
+                <td><h6>@item.Summary </h6></td>
+            }
+        </tr>
+        <tr>
+            <td valign="bottom"><h5>Data publikacji: @DateTime.Parse(@item.PubDate.Text, new System.Globalization.CultureInfo("pl-PL")); Czas trwania:  @item.Duration </h5></td>
+        </tr>
+    }
+</table>
+
