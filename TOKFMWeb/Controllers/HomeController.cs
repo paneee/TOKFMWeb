@@ -1,4 +1,5 @@
 ﻿using MoreLinq;
+using NLog;
 using SimpleFeedReader;
 using System;
 using System.Collections.Generic;
@@ -28,6 +29,7 @@ namespace TOKFMWeb.Controllers
         {
             Rss rssXML = new Rss();
             rssXML.GetFromXML(path);
+            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);  
             return View(rssXML);
         }
 
@@ -45,6 +47,7 @@ namespace TOKFMWeb.Controllers
                 serializer.Serialize(sw, rssDataXML);
 
                 string xmlString = sw.ToString();
+                LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
 
                 return this.Content(xmlString, "application/rss+xml");
             }
@@ -62,6 +65,7 @@ namespace TOKFMWeb.Controllers
 
             rssDataXML.GetFromXML(path);
             programs.Add(rssDataXML.Channel.Items);
+            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
 
             return View(programs);
         }
@@ -73,6 +77,7 @@ namespace TOKFMWeb.Controllers
 
             List<Item> data = rssDataXML.Channel.Items.Where(p => p.Image2.Href.Contains(id)).ToList();
             ViewBag.ImageUrl = data.FirstOrDefault().Image2.Href;
+            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
 
             return View("ProgramId", data);
         }
@@ -90,6 +95,8 @@ namespace TOKFMWeb.Controllers
             Rss rssDataXML = new Rss();
             TOKFMWeb.Helpers.Update.XML();
             rssDataXML.GetFromXML(path);
+            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
+
             return View("Index", rssDataXML);
 
         }

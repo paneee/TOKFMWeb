@@ -3,10 +3,10 @@
   <channel>
     <title>Wszystkie audycje TOKFM</title>
     <link>http://www.tokfm.pl</link>
-    <description>TOKFM Update time: 29.04.2017 02:39:55 (101)</description>
+    <description>TOKFM Update time: 31.05.2017 11:24:05 (122)</description>
     <language>pl</language>
     <copyright>Copyright © Agora SA All rights reserved.</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 02:39:55 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 10:06:33 +0200</lastBuildDate>
     <image>
       <title>Ostatnio dodane - Radio TOK FM</title>
       <url>http://bi.gazeta.pl/im/0/6423/z6423280T.jpg</url>
@@ -23,6 +23,308 @@
     <itunes:image href="http://serwisy.gazeta.pl/i/33/tokfm/logoTokFm600.jpg" />
     <itunes:category text="News &amp; Politics" />
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <enclosure type="audio/mpeg" length="17042948" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1rzMw0AchU30DQ31Tc73cAmMla1ww2GEJzA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Godzina komentarzy. Władyka: Odbywa się istotny atak na sądownictwo</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Godzina komentarzy. Władyka: Odbywa się istotny atak na sądownictwo</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/20_1440.jpg?1484056712" />
+      <itunes:duration>35:30</itunes:duration>
+      <guid isPermalink="false">50157</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 08:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6526179" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1qzMw0AchU30DQ31TM73cAmMla1ww2EQJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Lubnauer: W przypadku katastrofy smoleńskiej, Rosja specjalnie próbuje upokorzyć Polskę nie zwracając wraku</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Lubnauer: W przypadku katastrofy smoleńskiej, Rosja specjalnie próbuje upokorzyć Polskę nie zwracając wraku</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/20_1440.jpg?1484056712" />
+      <itunes:duration>13:36</itunes:duration>
+      <guid isPermalink="false">50156</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 07:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7709857" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1rTMw0AchU30DQ31TU73cAmMla1ww2FwnCcg," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Boni: Ewa Kopacz wykonała olbrzymią pracę. Wspierała rodziny tych, którzy zginęli w katastrofie smoleńskiej</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Boni: Ewa Kopacz wykonała olbrzymią pracę. Wspierała rodziny tych, którzy zginęli w katastrofie smoleńskiej</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/20_1440.jpg?1484056712" />
+      <itunes:duration>16:04</itunes:duration>
+      <guid isPermalink="false">50155</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 07:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4895966" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1qTMw0AchU30DQ31TE73cAmMla1ww2AoJxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Poranny przegląd prasy Jacka Żakowskiego</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Poranny przegląd prasy Jacka Żakowskiego</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/20_1440.jpg?1484056712" />
+      <itunes:duration>10:12</itunes:duration>
+      <guid isPermalink="false">50154</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 07:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6864366" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1rjMw0AchU30DQ31TY73cAmMla1ww1-0JxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Przegląd prasy ekonomicznej</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Przegląd prasy ekonomicznej</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/13_1440.jpg?1434369191" />
+      <itunes:duration>14:18</itunes:duration>
+      <guid isPermalink="false">50153</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 06:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6681629" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1qjMw0AchU30DQ31TI73cAmMla1ww19AJwg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Dlaczego Unia Europejska zmniejsza dotacje dla Polski?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Dlaczego Unia Europejska zmniejsza dotacje dla Polski?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/07_1440.jpg?1466408814" />
+      <itunes:duration>13:55</itunes:duration>
+      <guid isPermalink="false">50152</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 06:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6190029" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1rDMw0AchU30DQ31TQ73cAmMla1ww17MJwA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czym jest wolność?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Czym jest wolność?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/07_1440.jpg?1466408814" />
+      <itunes:duration>12:54</itunes:duration>
+      <guid isPermalink="false">50151</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="18662727" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1qDMw0AchU30DQ31TA73cAmMla1ww15YJvg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Pierwszy przegląd prasy Piotra Maślaka</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Pierwszy przegląd prasy Piotra Maślaka</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/07_1440.jpg?1466408814" />
+      <itunes:duration>38:53</itunes:duration>
+      <guid isPermalink="false">50150</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="19301355" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1XDBy6gwM9EHIVN_AUN_EUi-3wFjJGlww2HwJzg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Instytucja trwalsza od państwa - dwieście lat Zakładu Narodowego im. Ossolińskich. Rozmawiają Zbigniew Gluza i Paweł Sulik</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Instytucja trwalsza od państwa - dwieście lat Zakładu Narodowego im. Ossolińskich. Rozmawiają Zbigniew Gluza i Paweł Sulik</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/03_1440.jpg?1487939116" />
+      <itunes:duration>40:13</itunes:duration>
+      <guid isPermalink="false">50149</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 23:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="26244107" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDSxqDMw0AchU30DQ30TC73cAmMla1ww2F8JzA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Prawa dziecka w Polsce. Rozmawiają Rzecznik Praw Dziecka Marek Michalak, Renata Durda i Paweł Sulik</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Prawa dziecka w Polsce. Rozmawiają Rzecznik Praw Dziecka Marek Michalak, Renata Durda i Paweł Sulik</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/33_1440.jpg?1487939180" />
+      <itunes:duration>54:40</itunes:duration>
+      <guid isPermalink="false">50148</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="15033598" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxrzMw0AchU30DQ30Tc73cAmMla1ww2EIJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Jakiego człowieka powinna wychować szkoła? Dyskusja słuchaczy po debacie Usłysz Swoją Szkołę w Warszawie</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Jakiego człowieka powinna wychować szkoła? Dyskusja słuchaczy po debacie Usłysz Swoją Szkołę w Warszawie</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/03_1440.jpg?1487939116" />
+      <itunes:duration>31:19</itunes:duration>
+      <guid isPermalink="false">50147</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 21:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="25118479" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxqzMw0AchU30DQ30TM73cAmMla1ww2CUJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Ilu lekarzy brakuje w Polsce? Czy państwo wie, jak łatać te dziury?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Ilu lekarzy brakuje w Polsce? Czy państwo wie, jak łatać te dziury?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/91_1440.jpg?1484557213" />
+      <itunes:duration>52:20</itunes:duration>
+      <guid isPermalink="false">50146</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6333125" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjOxNDc1rjMw0AchE31Lc31TY73cAmMla1ww2dYJ4A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Test: Mini Countryman</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Druga generacja crossovera z koncernu BMW</itunes:summary>
+      <description>Druga generacja crossovera z koncernu BMW</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/18_1440.jpg?1432826595" />
+      <itunes:duration>13:12</itunes:duration>
+      <guid isPermalink="false">49753</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 19:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6176181" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxrjMw0AchU30DQ30TY73cAmMla1ww184Jwg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>"Pazdan. Chłopak, który gra całym sercem" - czyli jak pisać sportowe książki dla dzieci</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>"Pazdan. Chłopak, który gra całym sercem" - czyli jak pisać sportowe książki dla dzieci</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/16_1440.jpg?1493671700" />
+      <itunes:duration>12:52</itunes:duration>
+      <guid isPermalink="false">50143</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 19:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="35909303" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxqTMw0AchU30DQ30TE73cAmMla1ww1-sJxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Jakiego człowieka ma wychować szkoła? Cz. 1 debaty Usłysz Swoją Szkołę. Dyskutują: E. Korulska, A. Sosnowski, W. Paszyński i M. Podbielkowski</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Jakiego człowieka ma wychować szkoła? Cz. 1 debaty Usłysz Swoją Szkołę. Dyskutują: E. Korulska, A. Sosnowski, W. Paszyński i M. Podbielkowski</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/08_1440.jpg?1495099851" />
+      <itunes:duration>74:49</itunes:duration>
+      <guid isPermalink="false">50144</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="23802719" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxrTMw0AchU30DQ30TU73cAmMla1ww2AgJxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Cz. 2 warszawskiej debaty Usłysz Swoją Szkołę</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Cz. 2 warszawskiej debaty Usłysz Swoją Szkołę</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/08_1440.jpg?1495099851" />
+      <itunes:duration>49:35</itunes:duration>
+      <guid isPermalink="false">50145</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="423811" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjOxtDAxqjMw0AchE31LC30TI73cAmMla1ww2bwJ3g,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Nie traćcie czasu na szukanie miejsca parkingowego. Jest pomoc</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Nie traćcie czasu na szukanie miejsca parkingowego. Jest pomoc</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/61_1440.jpg?1476099782" />
+      <itunes:duration>00:53</itunes:duration>
+      <guid isPermalink="false">49842</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4864834" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxqDMw0AchU30DQ30TA73cAmMla1ww13cJvA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>KFF2017: Mikael Lypinski oprowadza nas po Slab City w filmie Desert Coffee</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>KFF2017: Mikael Lypinski oprowadza nas po Slab City w filmie Desert Coffee</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/79_1440.jpg?1461678366" />
+      <itunes:duration>10:08</itunes:duration>
+      <guid isPermalink="false">50140</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 17:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11106394" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxqjMw0AchU30DQ30TI73cAmMla1ww17EJwA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Usłysz Swoją Szkołę - Warszawa</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Ostatnia już z serii debat w ramach cyklu "Usłysz Swoją Szkołę", debata w Warszawie. Przy tej okazji spróbujemy podsumować wydarzenia ośmiu poprzednich czwartków;
+
+Dziś także: wyrok na rodziców - oprawców Szymona z Będzina. To już drugi wyrok w tej sprawie, surowszy od poprzedniego;
+
+W naszym magazynie opowiemy też o publicznej zbiórce na festiwal Malta w Poznaniu i przygotowaniach do nowej odsłony segregacji odpadów</itunes:summary>
+      <description>Ostatnia już z serii debat w ramach cyklu "Usłysz Swoją Szkołę", debata w Warszawie. Przy tej okazji spróbujemy podsumować wydarzenia ośmiu poprzednich czwartków;
+
+Dziś także: wyrok na rodziców - oprawców Szymona z Będzina. To już drugi wyrok w tej sprawie, surowszy od poprzedniego;
+
+W naszym magazynie opowiemy też o publicznej zbiórce na festiwal Malta w Poznaniu i przygotowaniach do nowej odsłony segregacji odpadów</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/14_1440.jpg?1475505140" />
+      <itunes:duration>23:08</itunes:duration>
+      <guid isPermalink="false">50142</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 17:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6502222" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQxrDMw0AchU30DQ30TQ73cAmMla1ww15QJvg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Prokuratura Krajowa o wynikach badań przeprowadzonych po ekshumacjach</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Prokuratura Krajowa o wynikach badań przeprowadzonych po ekshumacjach</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/78_1440.jpg?1439896930" />
+      <itunes:duration>13:33</itunes:duration>
+      <guid isPermalink="false">50141</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 16:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6461421" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7awMDQyqjM1MDS2rDMw0AchU30DQ31jS73cAmMla1ww15oJxQ,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Przyszłość Syrii nie zależy od Zachodu, tylko od regionalnych graczy  i Rosji</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Przyszłość Syrii nie zależy od Zachodu, tylko od regionalnych graczy  i Rosji</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>13:28</itunes:duration>
+      <guid isPermalink="false">50139</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Thu, 01 Jun 2017 16:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <enclosure type="audio/mpeg" length="21519256" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0NjEyM7Y0rTOxsLQwrjMw0AchE30LS30LY73cAmMla1ww2agJ4w,," />
       <itunes:author>Radio TOK FM</itunes:author>

@@ -1,4 +1,5 @@
 ﻿using FluentScheduler;
+using NLog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace TOKFMWeb.Helpers
         public AutomaticRefreshXML()
         {
             Schedule<JobRefreshXML>().ToRunNow().AndEvery(10).Minutes();
+            LogManager.GetCurrentClassLogger().Info("Autoupdate");
         }
     }
 }
