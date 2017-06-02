@@ -1,4 +1,5 @@
 ﻿using FluentScheduler;
+using NLog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +10,8 @@ namespace TOKFMWeb.Helpers
 {
     public class JobRefreshXML : IJob, IRegisteredObject
     {
-        private Rss rssDataWEB = new Rss();
-        private Rss rssDataXML = new Rss();
+        //private Rss rssDataWEB = new Rss();
+        //private Rss rssDataXML = new Rss();
 
         private readonly object _lock = new object();
 
@@ -30,18 +31,8 @@ namespace TOKFMWeb.Helpers
                 if (_shuttingDown)
                     return;
 
-                //rssDataWEB.GetFromWeb("http://audycje.tokfm.pl/rss/a7c6a5012a556b");
-                //rssDataXML.GetFromXML(HostingEnvironment.MapPath(@"~/XMLDataFile/RSS.xml"));
-                //rssDataWEB.Channel.AddItems(rssDataXML.Channel.Items);
-
-                //rssDataWEB.Channel.Title = "Wszystkie audycje TOKFM";
-                //rssDataWEB.Channel.Description = "TOKFM";
-
-                //rssDataWEB.SaveToXML(HostingEnvironment.MapPath(@"~/XMLDataFile/RSS.xml"));
-
-                // Do work, son!
-
-                Update.XML();
+                Update.XML(); 
+                LogManager.GetCurrentClassLogger().Info("Autoupdate");
             }
         }
 

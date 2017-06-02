@@ -3,10 +3,10 @@
   <channel>
     <title>Wszystkie audycje TOKFM</title>
     <link>http://www.tokfm.pl</link>
-    <description>TOKFM Update time: 31.05.2017 11:24:05 (122)</description>
+    <description>TOKFM Update time: 02.06.2017 18:04:49 (140)</description>
     <language>pl</language>
     <copyright>Copyright © Agora SA All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 10:06:33 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 18:04:52 +0200</lastBuildDate>
     <image>
       <title>Ostatnio dodane - Radio TOK FM</title>
       <url>http://bi.gazeta.pl/im/0/6423/z6423280T.jpg</url>
@@ -24,7 +24,291 @@
     <itunes:category text="News &amp; Politics" />
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <enclosure type="audio/mpeg" length="17042948" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1rzMw0AchU30DQ31Tc73cAmMla1ww2GEJzA,," />
+      <enclosure type="audio/mpeg" length="450978" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjOxtDAxrjMw0AchE31LC30TY73cAmMla1ww2ZsJ3g,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Roboty operują ludzkie oczy. I są w tym świetne</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Roboty operują ludzkie oczy. I są w tym świetne</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/61_1440.jpg?1476099782" />
+      <itunes:duration>00:56</itunes:duration>
+      <guid isPermalink="false">49843</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6710908" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDSzrDMw0AchU30DQ30zS73cAmMla1ww2HwJ0A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Związkowcy z OPZZ i FZZ w sprawie przyszłorocznej płacy minimalnej</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Związkowcy z OPZZ i FZZ w sprawie przyszłorocznej płacy minimalnej</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/78_1440.jpg?1439896930" />
+      <itunes:duration>13:59</itunes:duration>
+      <guid isPermalink="false">50169</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 16:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6603657" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ3qTMw0AchU30DQ31zE73cAmMla1ww2AoJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Jak powinien wyglądać podręcznik historii stosunków polsko-niemieckich? Gościem Agnieszki Lichnerowicz był prof. Robert Traba</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Jak powinien wyglądać podręcznik historii stosunków polsko-niemieckich? Gościem Agnieszki Lichnerowicz był prof. Robert Traba</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>13:45</itunes:duration>
+      <guid isPermalink="false">50174</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 16:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7992633" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ3rjMw0AchU30DQ31zY73cAmMla1ww1-0Jxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Raport: Ukraińcy o historii, kulturze i stosunkach polsko-ukraińskich. Rozmawiają Agnieszka Lichnerowicz i prof. Joanna Konieczna Sałamatin</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Raport: Ukraińcy o historii, kulturze i stosunkach polsko-ukraińskich. Rozmawiają Agnieszka Lichnerowicz i prof. Joanna Konieczna Sałamatin</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>16:39</itunes:duration>
+      <guid isPermalink="false">50173</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6281628" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ3qjMw0AchU30DQ31zI73cAmMla1ww19AJxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Problem globalnego ocieplenia? Nie dla Trumpa, który odrzuca porozumienie z Paryża. Gościem Agnieszki Lichnerowicz był Marcin Popkiewicz</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Problem globalnego ocieplenia? Nie dla Trumpa, który odrzuca porozumienie z Paryża. Gościem Agnieszki Lichnerowicz był Marcin Popkiewicz</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>13:05</itunes:duration>
+      <guid isPermalink="false">50172</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 15:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6990764" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ3rDMw0AchU30DQ31zQ73cAmMla1ww17MJwg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kulisy dzikiej reprywatyzacji w Warszawie przybliża Piotr Ciszewski</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kulisy dzikiej reprywatyzacji w Warszawie przybliża Piotr Ciszewski</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>14:34</itunes:duration>
+      <guid isPermalink="false">50171</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 15:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5002690" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ3qDMw0AchU30DQ31zA73cAmMla1ww15YJwA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Zapraszamy na Paradę Równości i dyskusję poświęconą prześladowaniom gejów w Czeczenii</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Zapraszamy na Paradę Równości i dyskusję poświęconą prześladowaniom gejów w Czeczenii</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>10:25</itunes:duration>
+      <guid isPermalink="false">50170</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 15:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7072376" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDSzqDMw0AchU30DQ30zC73cAmMla1ww2F8Jzg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Scarlettkowy opus octopus i prezydenckie tematy trudne. Lista Przebojów 331</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Listę 330 wygrywa Marek Suski i jego kolejny przebój z obrad sejmowej komisji śledczej, na drugim: Ryszard Petru śmiało kreślący algorytm dzietności, na trzecim zaś - Piotr Kuczyński u Macieja Głogowskiego.
+
+Wśród premier w notowaniu 331 między innymi: łacina w fast foodzie, polska elegancja - Francja, radio: choć na wizji, to bez krawatów, zgubiony wątek, polityczne wyznania nie do przekazywania, wreszcie: filmowiec o ośmiornicy i prezydent o trudnych sprawach.
+
+Słuchajcie i głosujcie!.</itunes:summary>
+      <description>Listę 330 wygrywa Marek Suski i jego kolejny przebój z obrad sejmowej komisji śledczej, na drugim: Ryszard Petru śmiało kreślący algorytm dzietności, na trzecim zaś - Piotr Kuczyński u Macieja Głogowskiego.
+
+Wśród premier w notowaniu 331 między innymi: łacina w fast foodzie, polska elegancja - Francja, radio: choć na wizji, to bez krawatów, zgubiony wątek, polityczne wyznania nie do przekazywania, wreszcie: filmowiec o ośmiornicy i prezydent o trudnych sprawach.
+
+Słuchajcie i &lt;b&gt;&lt;a href="http://www.tokfm.pl/Tokfm/7,102433,21902634,sa-tematy-trudne-sa-tematy-trudne-i-sa-tematy-trudne-331.html" "target=_blank"&gt;głosujcie!&lt;/a&gt;&lt;/b&gt;.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/23_1440.jpg?1434369328" />
+      <itunes:duration>14:44</itunes:duration>
+      <guid isPermalink="false">50168</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 14:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="55869777" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzqDMw0AchU30DQ30zA73cAmMla1ww13cJvg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Polska szkoła reportażu = polska szkoła zmyślania? Dyskutują Mariusz Szczygieł, Adam Leszczyński i Tomasz Stawiszyński </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Polska szkoła reportażu = polska szkoła zmyślania? Dyskutują Mariusz Szczygieł, Adam Leszczyński i Tomasz Stawiszyński </itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>23:17</itunes:duration>
+      <guid isPermalink="false">50160</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6813500" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzqzMw0AchU30DQ30zM73cAmMla1ww2CUJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czerniak - jak go rozpoznać. Klucz ABCDE</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Dzisiaj ciąg dalszy o czerniaku - nowotworze złośliwym skóry. Czerniaki są najłatwiejszymi do zdiagnozowania nowotworami skóry, ponieważ rozwijają się na jej powierzchni.  Dlatego dobrze jest codziennie po prostu oglądać swoje ciało. Czerniaki mają wiele cech charakterystycznych, które pomagają w ich rozpoznaniu. Cechy te określane są za pomocą kryteriów ABCDE.
+Jeżeli widzimy jakąś zmianę na ciele to odpowiedzmy sobie czy spełnia te kryteria:
+A - czy jest asymetryczna ?
+B - jakie ma  brzegi - czy są poszarpane i nierówne ?
+C - jaki ma kolor - czerwony i  czarny, niejednolity ?
+D - jak duża - czy średnica jest większa niż 6 mm  ?
+E - jak ewolucja - czy zmienia się
+Jeżeli mamy „ coś” na skórze co spełnia jeden z tych warunków,  lub po prostu budzi nasz niepokój, należy pójść do lekarza, który zbada zmianę, a w razie jakichkolwiek wątpliwości
+zostanie ona wycięta.</itunes:summary>
+      <description>Dzisiaj ciąg dalszy o czerniaku - nowotworze złośliwym skóry. Czerniaki są najłatwiejszymi do zdiagnozowania nowotworami skóry, ponieważ rozwijają się na jej powierzchni.  Dlatego dobrze jest codziennie po prostu oglądać swoje ciało. Czerniaki mają wiele cech charakterystycznych, które pomagają w ich rozpoznaniu. Cechy te określane są za pomocą kryteriów ABCDE.
+Jeżeli widzimy jakąś zmianę na ciele to odpowiedzmy sobie czy spełnia te kryteria:
+A - czy jest asymetryczna ?
+B - jakie ma  brzegi - czy są poszarpane i nierówne ?
+C - jaki ma kolor - czerwony i  czarny, niejednolity ?
+D - jak duża - czy średnica jest większa niż 6 mm  ?
+E - jak ewolucja - czy zmienia się
+Jeżeli mamy „ coś” na skórze co spełnia jeden z tych warunków,  lub po prostu budzi nasz niepokój, należy pójść do lekarza, który zbada zmianę, a w razie jakichkolwiek wątpliwości
+zostanie ona wycięta.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/07_1440.jpg?1491306846" />
+      <itunes:duration>14:12</itunes:duration>
+      <guid isPermalink="false">50166</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 13:50:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4899720" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzrTMw0AchU30DQ30zU73cAmMla1ww2AgJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kim był Manuel Noriega? Maciej Okraszewski w rozmowie z Tomaszem Stawiszyńskim </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kim był Manuel Noriega? Maciej Okraszewski w rozmowie z Tomaszem Stawiszyńskim </itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>10:12</itunes:duration>
+      <guid isPermalink="false">50165</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 13:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11542755" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzqTMw0AchU30DQ30zE73cAmMla1ww1-sJxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Trump wycofuje USA z porozumienia klimatycznego. Jakie będą konsekwencje tej decyzji? Rozmawiają Marek Wąsiński, Radosław Korzycki i Tomasz Stawiszyński </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Donald Trump ogłosił wczoraj, że USA wycofają się z porozumienia paryskiego w sprawie zmian klimatu.  Jak na tę decyzję amerykańskiego prezydenta zareagował świat? I jakie będą jej konsekwencje? Po 13:00 naszymi gośćmi będą Radosław Korzycki i Marek Wąsiński</itunes:summary>
+      <description>Donald Trump ogłosił wczoraj, że USA wycofają się z porozumienia paryskiego w sprawie zmian klimatu.  Jak na tę decyzję amerykańskiego prezydenta zareagował świat? I jakie będą jej konsekwencje? Po 13:00 naszymi gośćmi będą Radosław Korzycki i Marek Wąsiński</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>24:03</itunes:duration>
+      <guid isPermalink="false">50164</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 13:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6813500" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzrjMw0AchU30DQ30zY73cAmMla1ww184JxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Paradoksy na rynku pracy: niskie bezrobocie i problemy z zatrudnieniem</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Paradoksy na rynku pracy: niskie bezrobocie i problemy z zatrudnieniem</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/15_1440.jpg?1444662037" />
+      <itunes:duration>14:12</itunes:duration>
+      <guid isPermalink="false">50163</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 12:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11742976" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzqjMw0AchU30DQ30zI73cAmMla1ww17EJwg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Krzysztof Mieszkowski w rozmowie z Mikołajem Lizutem </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Krzysztof Mieszkowski w rozmowie z Mikołajem Lizutem </itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/75_1440.jpg?1496411620" />
+      <itunes:duration>24:28</itunes:duration>
+      <guid isPermalink="false">50162</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="18267994" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQzrDMw0AchU30DQ30zQ73cAmMla1ww15QJwA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Buntownik w czasach przełomu</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Buntownik w czasach przełomu</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/67_1440.jpg?1456503030" />
+      <itunes:duration>38:03</itunes:duration>
+      <guid isPermalink="false">50161</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 11:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="666434" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjOxtLCwrDMw0AchE31LC30LS73cAmMla1ww2sUJ8g,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Nowe zasady pracy tymczasowej - większa ochrona zatrudnionych</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>W Przewodniku teraz o jeszcze jednej zmianie, która weszła w życie z początkiem czerwca. A chodzi  o uszczelnienie zasad zatrudniania pracowników tymczasowych. Agencje zajmujące się kierowaniem takich osób do prac u różnych przedsiębiorców mają od teraz więcej obowiązków informacyjnych i mniejsze pole manewru. 
+
+ Od teraz osoba, która dostanie propozycję zatrudnienia przez agencję, jeszcze przed rozpoczęciem pracy dostanie pełen zestaw informacji o wynagrodzeniu czy warunkach urlopu. Najważniejsze jest jednak wprowadzenie limitu zatrudnienia pracownika tymczasowego - to 18 miesięcy na rzecz jednej firmy. Nie zadziała już trik z przerzucaniem pracownika z jednej agencji do innej lub zatrudnianie go na nieco innych zasadach, ale nadal tymczasowo - jeśli pracownik się sprawdził, po półtora roku powinien dostać normalną umowę.  
+
+Większą ochroną mają być objęte także kobiety w ciąży: jeśli kobieta była skierowana do pracy tymczasowej na co najmniej dwa miesiące i w tym czasie zaszła w ciążę - jej umowa zostaje automatycznie przedłużona do czasu porodu, a kobieta ma z tego tytułu prawo do wszystkich świadczeń - np. do zasiłku macierzyńskiego.  </itunes:summary>
+      <description>W Przewodniku teraz o jeszcze jednej zmianie, która weszła w życie z początkiem czerwca. A chodzi  o uszczelnienie zasad zatrudniania pracowników tymczasowych. Agencje zajmujące się kierowaniem takich osób do prac u różnych przedsiębiorców mają od teraz więcej obowiązków informacyjnych i mniejsze pole manewru. 
+
+ Od teraz osoba, która dostanie propozycję zatrudnienia przez agencję, jeszcze przed rozpoczęciem pracy dostanie pełen zestaw informacji o wynagrodzeniu czy warunkach urlopu. Najważniejsze jest jednak wprowadzenie limitu zatrudnienia pracownika tymczasowego - to 18 miesięcy na rzecz jednej firmy. Nie zadziała już trik z przerzucaniem pracownika z jednej agencji do innej lub zatrudnianie go na nieco innych zasadach, ale nadal tymczasowo - jeśli pracownik się sprawdził, po półtora roku powinien dostać normalną umowę.  
+
+Większą ochroną mają być objęte także kobiety w ciąży: jeśli kobieta była skierowana do pracy tymczasowej na co najmniej dwa miesiące i w tym czasie zaszła w ciążę - jej umowa zostaje automatycznie przedłużona do czasu porodu, a kobieta ma z tego tytułu prawo do wszystkich świadczeń - np. do zasiłku macierzyńskiego.  </description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/56_1440.jpg?1489763051" />
+      <itunes:duration>01:23</itunes:duration>
+      <guid isPermalink="false">49889</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 11:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="16634557" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDS1rDMw0AchU30DQ31TS73cAmMla1ww2F0Jzg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kontrewolucja w latach 60. i dziś. Rozmowa z prof. Wojciechem Bursztą</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kontrewolucja w latach 60. i dziś. Rozmowa z prof. Wojciechem Bursztą</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/67_1440.jpg?1456503030" />
+      <itunes:duration>34:39</itunes:duration>
+      <guid isPermalink="false">50159</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 10:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="20007711" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDS1qDMw0AchU30DQ31TC73cAmMla1ww2EAJzA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>W studio: Jadwiga Sztabińska, Grzegorz Cydejko i Michał Sutowski</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>W studio: Jadwiga Sztabińska, Grzegorz Cydejko i Michał Sutowski</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/02_1440.jpg?1484557092" />
+      <itunes:duration>41:41</itunes:duration>
+      <guid isPermalink="false">50158</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fri, 02 Jun 2017 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="17042948" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ1rzMw0AchU30DQ31Tc73cAmMla1ww2CMJyg,," />
       <itunes:author>Radio TOK FM</itunes:author>
       <title>Godzina komentarzy. Władyka: Odbywa się istotny atak na sądownictwo</title>
       <itunes:keywords>mp3</itunes:keywords>
@@ -38,7 +322,7 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <enclosure type="audio/mpeg" length="6526179" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7Y0MLc0rjM1MDQ1qzMw0AchU30DQ31TM73cAmMla1ww2EQJyg,," />
+      <enclosure type="audio/mpeg" length="6526179" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjM1MDQ1qzMw0AchU30DQ31TM73cAmMla1ww2AYJyA,," />
       <itunes:author>Radio TOK FM</itunes:author>
       <title>Lubnauer: W przypadku katastrofy smoleńskiej, Rosja specjalnie próbuje upokorzyć Polskę nie zwracając wraku</title>
       <itunes:keywords>mp3</itunes:keywords>
