@@ -3,10 +3,10 @@
   <channel>
     <title>Wszystkie audycje TOKFM</title>
     <link>http://www.tokfm.pl</link>
-    <description>TOKFM Update time: 02.06.2017 18:04:49 (140)</description>
+    <description>TOKFM Update time: 07.06.2017 00:21:39 (163)</description>
     <language>pl</language>
     <copyright>Copyright © Agora SA All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 18:04:52 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 00:21:40 +0200</lastBuildDate>
     <image>
       <title>Ostatnio dodane - Radio TOK FM</title>
       <url>http://bi.gazeta.pl/im/0/6423/z6423280T.jpg</url>
@@ -23,6 +23,348 @@
     <itunes:image href="http://serwisy.gazeta.pl/i/33/tokfm/logoTokFm600.jpg" />
     <itunes:category text="News &amp; Politics" />
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <enclosure type="audio/mpeg" length="46590328" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MLI0rjMw0AchU30DI31LY73cAmMla1ww2G8JzA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czyje jest nasze życie?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Z autorem książki "Czyje jest nasze życie?" dr. hab. Bartłomiejem Dobroczyńskim o anomii społecznej i płynnej rzeczywistości. </itunes:summary>
+      <description>Z autorem książki "Czyje jest nasze życie?" dr. hab. Bartłomiejem Dobroczyńskim o anomii społecznej i płynnej rzeczywistości. </description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/99_1440.jpg?1487081726" />
+      <itunes:duration>48:32</itunes:duration>
+      <guid isPermalink="false">50293</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 23:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="24892575" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDYyqDMw0AchU30DY30jA73cAmMla1ww12EJug,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>O kulturze terapeutycznej</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>O kulturze terapeutycznej</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/78_1440.jpg?1486739812" />
+      <itunes:duration>51:52</itunes:duration>
+      <guid isPermalink="false">50320</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="14072759" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDa0rDMw0AchU30DY31DS73cAmMla1ww2EcJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czy istnieją fałszerze psychoterapii?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Czy istnieją fałszerze psychoterapii?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/99_1440.jpg?1487081726" />
+      <itunes:duration>29:19</itunes:duration>
+      <guid isPermalink="false">50319</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 21:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="23959829" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDa0qDMw0AchU30DY31DC73cAmMla1ww2CoJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Goście ''Salonu'': Ewa Siedlecka, Jacek Dubois, Bogusław Chrabota</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Goście ''Salonu'': Ewa Siedlecka, Jacek Dubois, Bogusław Chrabota</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/89_1440.jpg?1484557192" />
+      <itunes:duration>49:55</itunes:duration>
+      <guid isPermalink="false">50318</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7190568" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDIxrzMw0AchU30DI30Tc73cAmMla1ww2EgJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Test: Renault Megane kombi</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Silnik 1.2t 130KM</itunes:summary>
+      <description>Silnik 1.2t 130KM</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/18_1440.jpg?1432826595" />
+      <itunes:duration>14:59</itunes:duration>
+      <guid isPermalink="false">50247</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 19:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6802337" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0rzMw0AchU30DY31Dc73cAmMla1ww2A0Jxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Rajd Polski otworzy wakacje w Mikołajkach</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>29 czerwca w Mikołajkach rusza 74-ty Rajd Polski. Impreza po raz 6-ty w ogóle, a czwarty z rzędu jest jedną z rund rajdowych Mistrzostw Świata. Do Polski przyjadą najszybsi
+zawodnicy na świecie, na czele z prowadzącym w tegorocznym rankingu i broniącym tytułu Mistrza Świata - Franczuem Sebastianem Ogiererm.
+
+O tradycji Rajdu Polski, o tym kto jeszcze wystartuje w imprezie, a nawet o cenach biletów, Marcin Jedliński rozmawia w "Jeszcze Więcej Sportu" z Andrzejem Witkowskim - 
+prezesem Polskiego Związku Motorowego, dyrektorem rajdu - Jarosławem Noworolem i z polskim kierowcą klasy WRC2 - Hubertem Ptaszkiem.</itunes:summary>
+      <description>29 czerwca w Mikołajkach rusza 74-ty Rajd Polski. Impreza po raz 6-ty w ogóle, a czwarty z rzędu jest jedną z rund rajdowych Mistrzostw Świata. Do Polski przyjadą najszybsi
+zawodnicy na świecie, na czele z prowadzącym w tegorocznym rankingu i broniącym tytułu Mistrza Świata - Franczuem Sebastianem Ogiererm.
+
+O tradycji Rajdu Polski, o tym kto jeszcze wystartuje w imprezie, a nawet o cenach biletów, Marcin Jedliński rozmawia w "Jeszcze Więcej Sportu" z Andrzejem Witkowskim - 
+prezesem Polskiego Związku Motorowego, dyrektorem rajdu - Jarosławem Noworolem i z polskim kierowcą klasy WRC2 - Hubertem Ptaszkiem.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/16_1440.jpg?1493671700" />
+      <itunes:duration>14:10</itunes:duration>
+      <guid isPermalink="false">50317</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 19:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5898367" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0qzMw0AchU30DY31DM73cAmMla1ww1_AJxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Ministerstwo Sprawiedliwości utajniło swoich ekspertów prawnych. Rozmowa Hanny Zielińskiej z Bianką Mikołajewską</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Ministerstwo Sprawiedliwości utajniło swoich ekspertów prawnych. Rozmowa Hanny Zielińskiej z Bianką Mikołajewską</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/65_1440.jpg?1438264112" />
+      <itunes:duration>12:17</itunes:duration>
+      <guid isPermalink="false">50316</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 19:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7156260" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0qTMw0AchU30DY31DE73cAmMla1ww17YJwA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Pracodawcy skorzystają na 32-dniowym urlopie pracownika - przekonuje Piotr Szumlewicz z OPZZ</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Polacy należą do najbardziej zapracowanych społeczeństw z krajów rozwiniętych. Według danych OECD w 2015 roku przeciętny czas pracy Polaków wynosił 1963 godziny, czyli o wiele więcej niż w zdecydowanej większości krajów rozwiniętych. Mniej od nas pracują między innymi Czesi (1779 godzin), Słowacy (1754), Holendrzy (1419), Francuzi (1482) czy Niemcy (1371) </itunes:summary>
+      <description>Polacy należą do najbardziej zapracowanych społeczeństw z krajów rozwiniętych. Według danych OECD w 2015 roku przeciętny czas pracy Polaków wynosił 1963 godziny, czyli o wiele więcej niż w zdecydowanej większości krajów rozwiniętych. Mniej od nas pracują między innymi Czesi (1779 godzin), Słowacy (1754), Holendrzy (1419), Francuzi (1482) czy Niemcy (1371) </description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/65_1440.jpg?1438264112" />
+      <itunes:duration>14:55</itunes:duration>
+      <guid isPermalink="false">50314</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 18:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11122687" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0rjMw0AchU30DY31DY73cAmMla1ww15kJvg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czy UNESCO uratuje Puszczę Białowieską? Rozmawiają prof. Przemysław Chylarecki i Hanna Zielińska</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Czy UNESCO uratuje Puszczę Białowieską? Rozmawiają prof. Przemysław Chylarecki i Hanna Zielińska</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/65_1440.jpg?1438264112" />
+      <itunes:duration>23:10</itunes:duration>
+      <guid isPermalink="false">50313</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="328098" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDOxtDAxrTMw0AchE31LC30TU73cAmMla1ww2fcJ4g,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Jak sprawdzić czy prędkość internetu jest zgodna z umową?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Jak sprawdzić czy prędkość internetu jest zgodna z umową?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/61_1440.jpg?1476099782" />
+      <itunes:duration>00:41</itunes:duration>
+      <guid isPermalink="false">49845</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6157220" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDYwrTMw0AchU30DYyCpl1tgrGQNXDDXtAnA" />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Fotograf pyta widza: Dasz wiarę?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>"Dasz wiarę?" to pytanie zadają kuratorzy wystawy głównej trwającego w Łodzi Fotofestiwalu. Fotografowie grają z wyobraźnią swoja i widzów, zadają pytania o zaufanie i wiarygodność tego, co widzimy.</itunes:summary>
+      <description>"Dasz wiarę?" to pytanie zadają kuratorzy wystawy głównej trwającego w Łodzi Fotofestiwalu. Fotografowie grają z wyobraźnią swoja i widzów, zadają pytania o zaufanie i wiarygodność tego, co widzimy.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/79_1440.jpg?1461678366" />
+      <itunes:duration>12:50</itunes:duration>
+      <guid isPermalink="false">50305</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 17:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11334414" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0qjMw0AchU30DY31DI73cAmMla1ww13wJvA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>W Krakowie plaża, a w Szczecinie mobilna karta miejska</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Ilu nauczycieli straci pracę w wyniku reformy i gdzie tej pracy nauczyciele nie stracą? Już za chwilę w kolejnej odsłonie powrócimy do skutków najnowszej reformy systemu edukacji;
+
+Dziś  także: jak działa cyberoko, czyli komu i w jaki sposób można pomóc;
+
+W naszym magazynie dziś również - o pomocy dla frankowiczów: zdaniem niektórych ekspertów mogą powstać przepisy, które jedynie stworzą wrażenie że zrealizowano przedwyborczą obietnicę;
+
+Będzie też o rondzie imienia Edwarda Gierka w Sosnowcu - czy powinno zmienić nazwę?</itunes:summary>
+      <description>Ilu nauczycieli straci pracę w wyniku reformy i gdzie tej pracy nauczyciele nie stracą? Już za chwilę w kolejnej odsłonie powrócimy do skutków najnowszej reformy systemu edukacji;
+
+Dziś  także: jak działa cyberoko, czyli komu i w jaki sposób można pomóc;
+
+W naszym magazynie dziś również - o pomocy dla frankowiczów: zdaniem niektórych ekspertów mogą powstać przepisy, które jedynie stworzą wrażenie że zrealizowano przedwyborczą obietnicę;
+
+Będzie też o rondzie imienia Edwarda Gierka w Sosnowcu - czy powinno zmienić nazwę?</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/14_1440.jpg?1475505140" />
+      <itunes:duration>23:37</itunes:duration>
+      <guid isPermalink="false">50312</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 17:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6883732" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0rDMw0AchU30DY31DQ73cAmMla1ww118Jug,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Handel w niedziele - zakaz czy tylko ograniczenie?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Handel w niedziele - zakaz czy tylko ograniczenie?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/78_1440.jpg?1439896930" />
+      <itunes:duration>14:20</itunes:duration>
+      <guid isPermalink="false">50311</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 16:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7023256" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDY0qDMw0AchU30DY31DA73cAmMla1ww10IJuA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Powojnie bez retuszu. Ukraiński aspekt. Zapraszamy na debatę</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Powojnie bez retuszu. Ukraiński aspekt. Zapraszamy na debatę</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>14:38</itunes:duration>
+      <guid isPermalink="false">50310</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 16:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4003854" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDawrDMw0AchU30DY30DS73cAmMla1ww2CgJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Szkocja coraz dalej od Korony? Przed wyborami w Wielkiej Brytanii</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Szkocja coraz dalej od Korony? Przed wyborami w Wielkiej Brytanii</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>08:20</itunes:duration>
+      <guid isPermalink="false">50309</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6869226" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDawqDMw0AchU30DY30DC73cAmMla1ww2AsJxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czy Uber to "sharing economy"?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Czy Uber to "sharing economy"?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>14:19</itunes:duration>
+      <guid isPermalink="false">50308</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 15:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5678457" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDYwrzMw0AchU30DY30Dc73cAmMla1ww1-4JxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kto nas obroni? Redukcja wydatków na broń w Europie</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kto nas obroni? Redukcja wydatków na broń w Europie</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>11:50</itunes:duration>
+      <guid isPermalink="false">50307</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 15:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4534526" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDYwqzMw0AchU30DY30DM73cAmMla1ww19EJwg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kontrowersyjna akcja służb. Policja na meczu udawała dziennikarzy</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kontrowersyjna akcja służb. Policja na meczu udawała dziennikarzy</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>09:27</itunes:duration>
+      <guid isPermalink="false">50306</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 15:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5799809" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MLI0rzMw0AchU30DI31Lc73cAmMla1ww2OMJ1A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Nowy purytanizm</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Zdrowy tryb życia też może być religia. Zwłaszcza że inne religie przestały być atrakcyjne.</itunes:summary>
+      <description>Zdrowy tryb życia też może być religia. Zwłaszcza że inne religie przestały być atrakcyjne.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/77_1440.jpg?1456735897" />
+      <itunes:duration>12:05</itunes:duration>
+      <guid isPermalink="false">50297</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 14:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5835851" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNzcwqDM1MDYwqTMw0AchU30DY30DE73cAmMla1ww15cJvg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kim są "biznesmeni dżihadu"? O zamachu w Londynie i zagrożeniu terrorystycznym rozmawiają dr Kacper Rękawek i Jakub Janiszewski </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kim są "biznesmeni dżihadu"? O zamachu w Londynie i zagrożeniu terrorystycznym rozmawiają dr Kacper Rękawek i Jakub Janiszewski </itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/06_1440.jpg?1496411605" />
+      <itunes:duration>12:09</itunes:duration>
+      <guid isPermalink="false">50304</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 14:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5404867" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwMzGxqDM1MDYwrjMw0AchU30DYyDSyy0wVrIGXDDYVQnE" />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Seria krwawych zamachów w Afganistanie. Wojciech Jagielski w rozmowie z Jakubem Janiszewskim </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Seria krwawych zamachów w Afganistanie. Wojciech Jagielski w rozmowie z Jakubem Janiszewskim </itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/06_1440.jpg?1496411605" />
+      <itunes:duration>11:16</itunes:duration>
+      <guid isPermalink="false">50303</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="662362" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwsjA1rzM1MDYwqjMw0AchU30DY30DI73cAmMla1ww2DUJwg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czerniak - co możemy zrobić , by zmniejszyć ryzyko zachorowania?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Ktoś kto ma jasną cerę, blond lub rude włosy jest bardziej narażony na to, że zachoruje na najgroźniejszy nowotwór skóry  -  czerniaka. Na naszą karnację wpływu nie mamy, ale są rzeczy na które mamy wpływ np.: na to czy i jak się opalamy. Stwierdzono, że najczęstszą przyczyną powstania czerniaka na naszej skórze jest właśnie opalanie. Dlatego osoby o jasnej cerze, z dużą ilością znamion oraz te, u których w bliskiej rodzinie doszło do zachorowań na czerniaka nie powinny w ogóle się opalać, a wychodząc z budynków niech  chronią skórę kremami z odpowiednimi filtrami. Zresztą wszyscy inni w szczególności, gdy wystawiają ciało na słońce,  powinni stosować ochronę - filtry UV, noszenie czapki i okularów słonecznych. Unikajmy słońca w godzinach 11-16, no i nie opalajmy się w solarium.  Mężczyźni, którzy pracują na dworze w upalne dni, niech nie zdejmują  koszulek, co często się zdarza. Wyjściem jest ubranie czegoś przewiewnego i jasnego, co zabezpieczy tułów przed promieniowaniem ultrafioletowym.</itunes:summary>
+      <description>Ktoś kto ma jasną cerę, blond lub rude włosy jest bardziej narażony na to, że zachoruje na najgroźniejszy nowotwór skóry  -  czerniaka. Na naszą karnację wpływu nie mamy, ale są rzeczy na które mamy wpływ np.: na to czy i jak się opalamy. Stwierdzono, że najczęstszą przyczyną powstania czerniaka na naszej skórze jest właśnie opalanie. Dlatego osoby o jasnej cerze, z dużą ilością znamion oraz te, u których w bliskiej rodzinie doszło do zachorowań na czerniaka nie powinny w ogóle się opalać, a wychodząc z budynków niech  chronią skórę kremami z odpowiednimi filtrami. Zresztą wszyscy inni w szczególności, gdy wystawiają ciało na słońce,  powinni stosować ochronę - filtry UV, noszenie czapki i okularów słonecznych. Unikajmy słońca w godzinach 11-16, no i nie opalajmy się w solarium.  Mężczyźni, którzy pracują na dworze w upalne dni, niech nie zdejmują  koszulek, co często się zdarza. Wyjściem jest ubranie czegoś przewiewnego i jasnego, co zabezpieczy tułów przed promieniowaniem ultrafioletowym.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/07_1440.jpg?1491306846" />
+      <itunes:duration>01:23</itunes:duration>
+      <guid isPermalink="false">50302</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 13:50:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="5385896" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0M7cwNLcwrjM1MDYwrDMw0AchU30DY30DQ73cAmMla1ww18IJvQ,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>"Działania Szyszki pod lupą UNESCO". Krzysztof Cibor w rozmowie z Jakubem Janiszewskim </title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>"Działania Szyszki pod lupą ekspertów UNESCO. Do Puszczy Białowieskiej powinna zostać wysłana nowa misja UNESCO, która sprawdzi, czy scenariusz realizowany obecnie przez Jana Szyszkę nie oznacza konieczności wpisania Puszczy na listę światowego dziedzictwa w zagrożeniu - to najważniejszy wniosek z opublikowanej w piątek oficjalnej roboczej wersji decyzji, która ma zapaść na lipcowej sesji Komitetu UNESCO w Krakowie"</itunes:summary>
+      <description>"Działania Szyszki pod lupą ekspertów UNESCO. Do Puszczy Białowieskiej powinna zostać wysłana nowa misja UNESCO, która sprawdzi, czy scenariusz realizowany obecnie przez Jana Szyszkę nie oznacza konieczności wpisania Puszczy na listę światowego dziedzictwa w zagrożeniu - to najważniejszy wniosek z opublikowanej w piątek oficjalnej roboczej wersji decyzji, która ma zapaść na lipcowej sesji Komitetu UNESCO w Krakowie"</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/06_1440.jpg?1496411605" />
+      <itunes:duration>11:13</itunes:duration>
+      <guid isPermalink="false">50301</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 06 Jun 2017 13:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <enclosure type="audio/mpeg" length="450978" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MzG0NLE0qjOxtDAxrjMw0AchE31LC30TY73cAmMla1ww2ZsJ3g,," />
       <itunes:author>Radio TOK FM</itunes:author>

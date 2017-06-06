@@ -29,16 +29,21 @@ namespace TOKFMWeb.Controllers
         {
             Rss rssXML = new Rss();
             rssXML.GetFromXML(path);
-            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);  
+            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
             return View(rssXML);
         }
 
-        public ActionResult Rss()
+        public ActionResult Rss(string id)
         {
             Rss rssDataXML = new Rss();
             rssDataXML.GetFromXML(path);
             rssDataXML.Atom = "http://www.w3.org/2005/Atom";
             rssDataXML.Itunes = "http://www.itunes.com/dtds/podcast-1.0.dtd";
+
+            if(id != null)
+            {
+                rssDataXML.Channel.Items.RemoveAll(p => !p.Image2.Href.Contains(id));
+            }
 
             try
             {
@@ -77,6 +82,8 @@ namespace TOKFMWeb.Controllers
 
             List<Item> data = rssDataXML.Channel.Items.Where(p => p.Image2.Href.Contains(id)).ToList();
             ViewBag.ImageUrl = data.FirstOrDefault().Image2.Href;
+            ViewBag.RSSUrl = id;
+
             LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
 
             return View("ProgramId", data);
