@@ -43,6 +43,7 @@ namespace TOKFMWeb.Controllers
             if(id != null)
             {
                 rssDataXML.Channel.Items.RemoveAll(p => !p.Image2.Href.Contains(id));
+               
             }
 
             try
