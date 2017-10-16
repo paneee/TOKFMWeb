@@ -40,6 +40,7 @@ namespace TOKFMWeb.Controllers
             rssDataXML.Atom = "http://www.w3.org/2005/Atom";
             rssDataXML.Itunes = "http://www.itunes.com/dtds/podcast-1.0.dtd";
 
+
             if (id != null)
             {
                 rssDataXML.Channel.Items.RemoveAll(p => !p.Image2.Href.Contains(id));
@@ -60,10 +61,14 @@ namespace TOKFMWeb.Controllers
                 var sw = new System.IO.StringWriter();
                 var serializer = new XmlSerializer(typeof(Rss));
                 serializer.Serialize(sw, rssDataXML);
+                 
+                string xmlString = sw.ToString(); 
+                xmlString = xmlString.Replace("http://serwisy.gazeta.pl/i/33/tokfm/logoTokFm600.jpg", rssDataXML.Channel.Image.Url).
+                            Replace("Ostatnio dodane - Radio TOK FM", "TOK FM").
+                            Replace("Wszystkie audycje TOKFM", "TOK FM")
+                            ;
 
-                string xmlString = sw.ToString();
-                LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
-
+                LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress); 
                 return this.Content(xmlString, "application/rss+xml");
             }
             catch
