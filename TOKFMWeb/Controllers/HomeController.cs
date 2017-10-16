@@ -40,10 +40,19 @@ namespace TOKFMWeb.Controllers
             rssDataXML.Atom = "http://www.w3.org/2005/Atom";
             rssDataXML.Itunes = "http://www.itunes.com/dtds/podcast-1.0.dtd";
 
-            if(id != null)
+            if (id != null)
             {
                 rssDataXML.Channel.Items.RemoveAll(p => !p.Image2.Href.Contains(id));
-               
+                try
+                {
+                    Item item1 = new Item();
+                    item1 = rssDataXML.Channel.Items.Where(p => p.Image2.Href.Contains(id)).FirstOrDefault();
+                    rssDataXML.Channel.Image.Url = item1.Image2.Href;
+                }
+                catch
+                {
+
+                }
             }
 
             try
