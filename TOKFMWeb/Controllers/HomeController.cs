@@ -152,11 +152,11 @@ namespace TOKFMWeb.Controllers
                 sr.Serialize(tw, opmlFile);
                 ret = tw.ToString();
                 tw.Flush();
-                tw.Close(); 
+                tw.Close();
             }
             LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
 
-            return File(Encoding.UTF8.GetBytes(ret), "application/xml", "OPML.xml");
+            return File(Encoding.UTF8.GetBytes(ret), "application/xml", "OPML_" + uniqueProgramsId.Count + "_podcast.xml");
         }
     }
 }
