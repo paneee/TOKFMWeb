@@ -152,21 +152,11 @@ namespace TOKFMWeb.Controllers
                 sr.Serialize(tw, opmlFile);
                 ret = tw.ToString();
                 tw.Flush();
-                tw.Close();
-
-                //XmlSerializer xmlSerializer = new XmlSerializer(typeof(opml)); 
-                //using (StringWriter textWriter = new StringWriter())
-                //{
-                //    xmlSerializer.Serialize(textWriter, opmlFile);
-                //    ret = textWriter.ToString();
-                //}
+                tw.Close(); 
             }
             LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
 
             return File(Encoding.UTF8.GetBytes(ret), "application/xml", "OPML.xml");
-
-            
-            //return this.Content(ret, "text/xml");
         }
     }
 }
