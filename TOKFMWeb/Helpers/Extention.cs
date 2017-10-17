@@ -12,7 +12,7 @@ namespace TOKFMWeb.Helpers
         public static void Add(this List<ProgramView> programView, List<Item> items)
         {
             //  List<Item> 
-            var uniqueItem = items.DistinctBy(p => p.Image2.Href).ToList();
+            List<Item> uniqueItem = items.DistinctBy(p => p.Image2.Href).ToList();
             foreach (var item in uniqueItem)
             {
                 programView.Add(new ProgramView

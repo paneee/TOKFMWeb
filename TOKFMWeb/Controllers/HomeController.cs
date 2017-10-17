@@ -20,9 +20,11 @@ namespace TOKFMWeb.Controllers
     public class HomeController : Controller
     {
         private string path { get; set; }
+        private string path2 { get; set; }
         public HomeController()
         {
             path = HostingEnvironment.MapPath(@"~/XMLDataFile/RSS.xml");
+            path2 = HostingEnvironment.MapPath(@"~/XMLDataFile/OMPL.xml");
         }
 
         public ActionResult Index()
@@ -61,14 +63,13 @@ namespace TOKFMWeb.Controllers
                 var sw = new System.IO.StringWriter();
                 var serializer = new XmlSerializer(typeof(Rss));
                 serializer.Serialize(sw, rssDataXML);
-                 
-                string xmlString = sw.ToString(); 
+
+                string xmlString = sw.ToString();
                 xmlString = xmlString.Replace("http://serwisy.gazeta.pl/i/33/tokfm/logoTokFm600.jpg", rssDataXML.Channel.Image.Url).
                             Replace("Ostatnio dodane - Radio TOK FM", "TOK FM").
-                            Replace("Wszystkie audycje TOKFM", "TOK FM")
-                            ;
+                            Replace("Wszystkie audycje TOKFM", "TOK FM");
 
-                LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress); 
+                LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
                 return this.Content(xmlString, "application/rss+xml");
             }
             catch
@@ -122,5 +123,51 @@ namespace TOKFMWeb.Controllers
             return View("Index", rssDataXML);
 
         }
+
+        public FileResult OmplDownload()
+        {
+            string ret = "";
+            Rss rssDataXML = new Rss();
+            rssDataXML.GetFromXML(path);
+
+            List<opmlOutline> opmlOutline = new List<Models.opmlOutline>();
+
+            List<string> uniqueProgramsId = rssDataXML.Channel.Items.Select(p => p.Image2.Href).Distinct().ToList();
+
+            if (uniqueProgramsId.Count > 0)
+            {
+                opml opmlFile = new opml(new opmlHead("PodcastAddict registration feeds", DateTime.Now.ToString(), DateTime.Now.ToString()),
+                                       new opmlOutline[uniqueProgramsId.Count], 1);
+                int i = 0;
+
+                foreach (string item in uniqueProgramsId)
+                {
+                    opmlFile.body[i] = new opmlOutline("TOK FM", "rss", "http://tokfm.somee.com/Home/Rss/" +
+                                            item.Substring(item.IndexOf("?") + 1), "http://www.tokfm.pl");
+                    i++;
+                }
+
+                XmlSerializer sr = new XmlSerializer(typeof(opml));
+                StringWriter tw = new StringWriter();
+                sr.Serialize(tw, opmlFile);
+                ret = tw.ToString();
+                tw.Flush();
+                tw.Close();
+
+                //XmlSerializer xmlSerializer = new XmlSerializer(typeof(opml)); 
+                //using (StringWriter textWriter = new StringWriter())
+                //{
+                //    xmlSerializer.Serialize(textWriter, opmlFile);
+                //    ret = textWriter.ToString();
+                //}
+            }
+            LogManager.GetCurrentClassLogger().Info("IP: " + HttpContext.Request.UserHostAddress);
+
+            return File(Encoding.UTF8.GetBytes(ret), "application/xml", "OPML.xml");
+
+            
+            //return this.Content(ret, "text/xml");
+        }
     }
 }
+

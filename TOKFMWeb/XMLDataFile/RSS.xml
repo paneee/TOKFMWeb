@@ -3,10 +3,10 @@
   <channel>
     <title>Wszystkie audycje TOKFM</title>
     <link>http://www.tokfm.pl</link>
-    <description>TOKFM Update time: 16.10.2017 11:49:41 (1063)</description>
+    <description>TOKFM Update time: 17.10.2017 21:43:10 (1089)</description>
     <language>pl</language>
     <copyright>Copyright © Agora SA All rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Oct 2017 11:49:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 21:43:09 +0200</lastBuildDate>
     <image>
       <title>Ostatnio dodane - Radio TOK FM</title>
       <url>http://bi.gazeta.pl/im/0/6423/z6423280T.jpg</url>
@@ -23,6 +23,390 @@
     <itunes:image href="http://serwisy.gazeta.pl/i/33/tokfm/logoTokFm600.jpg" />
     <itunes:category text="News &amp; Politics" />
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <enclosure type="audio/mpeg" length="23194289" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA1rDMw0AchU31TA31TQ73cAmMla1ww2BsJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Goście ''Salonu'': Paweł Walewski, Robert Feluś, Rafał Chwedoruk</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Goście ''Salonu'': Paweł Walewski, Robert Feluś, Rafał Chwedoruk</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/89_1440.jpg?1499773689" />
+      <itunes:duration>48:19</itunes:duration>
+      <guid isPermalink="false">55051</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6690062" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1MTexqDMw0AchU30Tc30TC73cAmMla1ww2ZEJ4A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Test: Peugeot 5008</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Nowy francuski crossover</itunes:summary>
+      <description>Nowy francuski crossover</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/18_1440.jpg?1499772690" />
+      <itunes:duration>13:56</itunes:duration>
+      <guid isPermalink="false">54748</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 19:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7282885" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA1qDMw0AchU31TAyDSyy0wVrIGXDDX_gnG" />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Tunezja potrzebuje obyczajowego wstrząsu</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Mahdi Ben Attia o "Mężczyznach Amel"</itunes:summary>
+      <description>Mahdi Ben Attia o "Mężczyznach Amel"</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/79_1440.jpg?1504892700" />
+      <itunes:duration>15:10</itunes:duration>
+      <guid isPermalink="false">55050</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 19:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4592890" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTCxrDMw0AchU31TA30TS73cAmMla1ww2OQJ1g,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>"Dobra terrorystka" w Teatrze Studio</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>"Dobra terrorystka" w Teatrze Studio</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/79_1440.jpg?1504892700" />
+      <itunes:duration>09:34</itunes:duration>
+      <guid isPermalink="false">55049</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 19:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="10708833" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxqzMw0AchU31TA30TM73cAmMla1ww2I0J0A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czy polskie władze powinny się spotykać z Erdoganem?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Odpowiada Konstanty Gebert</itunes:summary>
+      <description>Odpowiada Konstanty Gebert</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/18_1440.jpg?1505121441" />
+      <itunes:duration>22:19</itunes:duration>
+      <guid isPermalink="false">55046</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="324336" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTC2rDMw0AchU31TA31jS73cAmMla1ww2MUJ1A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Zwiedzaj Marsa w internecie</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Zwiedzaj Marsa w internecie</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/61_1440.jpg?1476099782" />
+      <itunes:duration>00:41</itunes:duration>
+      <guid isPermalink="false">55039</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="13180534" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxrTMw0AchU31TA30TU73cAmMla1ww2HAJzg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Sąd: uniemożliwienie pełnomocnikowi kontaktu z klientem zgodne z prawem</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Rozmawiają Jacek Białas, Aleksandra Chrzanowska i Agata Kowalska</itunes:summary>
+      <description>Rozmawiają Jacek Białas, Aleksandra Chrzanowska i Agata Kowalska</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/18_1440.jpg?1505121441" />
+      <itunes:duration>27:28</itunes:duration>
+      <guid isPermalink="false">55045</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 17:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7641873" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxrjMw0AchU31TA30TY73cAmMla1ww2DYJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kto identyfikuje się z Platformą Obywatelską?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kto identyfikuje się z Platformą Obywatelską?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/19_1440.jpg?1505116251" />
+      <itunes:duration>15:55</itunes:duration>
+      <guid isPermalink="false">55043</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 17:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6490895" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxqTMw0AchU31TA30TE73cAmMla1ww2FMJzA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kto pokona Golden State Warriors? I o co gra Marcin Gortat? Stratuje nowy sezon NBA</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Kto pokona Golden State Warriors? I o co gra Marcin Gortat? Stratuje nowy sezon NBA</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/16_1440.jpg?1504892502" />
+      <itunes:duration>13:31</itunes:duration>
+      <guid isPermalink="false">55044</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 16:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6721888" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxqjMw0AchU31TA30TI73cAmMla1ww2BkJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>200 lat i dwa dni temu po śmierci Tadeusza Kościuszki</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>200 lat i dwa dni temu po śmierci Tadeusza Kościuszki</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>14:00</itunes:duration>
+      <guid isPermalink="false">55042</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 16:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="4861269" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxrDMw0AchU31TA30TQ73cAmMla1ww1_wJxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>"Tak się dłużej nie da" pielęgniarka o służbie zdrowia</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Naczelna Rada Pielęgniarek i Położnych wspiera protest rezydentów.  Jej prezeska na antenie mówiła: Naszym konstytucyjnym obowiązkiem jest wypowiadanie się na ten temat. W tej chwili mówimy „dłużej się tak nie da”</itunes:summary>
+      <description>Naczelna Rada Pielęgniarek i Położnych wspiera protest rezydentów.  Jej prezeska na antenie mówiła: Naszym konstytucyjnym obowiązkiem jest wypowiadanie się na ten temat. W tej chwili mówimy „dłużej się tak nie da”</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>10:08</itunes:duration>
+      <guid isPermalink="false">55041</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6659910" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTAxqDMw0AchU31TA30TA73cAmMla1ww198JxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czy Angela Merkel jest ideową bankrutką? I czy powinna brać przykład z Sebastiana Kurza?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Przegląd prasy niemieckiej - o CDU po wyborach i skręcie na lewo po zwycięstwie AFD:
+http://www.spiegel.de/politik/deutschland/cdu-csu-streitet-ueber-strategie-bei-sozialen-themen-rechtsruck-linksruck-a-1172758.html
+Konserwatywno-liberalny magazyn zarzuca Merkel ideowe bankructwo:
+https://cicero.de/innenpolitik/cdu-wahl-niedersachsen-angela-merkel
+Co łączy i dzieli Angelę Merkel i Emmanuela Macrona?
+http://www.spiegel.de/international/europe/interview-with-french-president-emmanuel-macron-a-1172745.html
+Czy Angela Merkel powinna brać przykład z Sebastiana Kurza?
+http://www.zeit.de/2017/42/oesterreich-wahl-sebastian-kurz-kanzler-oevp-spoe</itunes:summary>
+      <description>Przegląd prasy niemieckiej - o CDU po wyborach i skręcie na lewo po zwycięstwie AFD:
+http://www.spiegel.de/politik/deutschland/cdu-csu-streitet-ueber-strategie-bei-sozialen-themen-rechtsruck-linksruck-a-1172758.html
+Konserwatywno-liberalny magazyn zarzuca Merkel ideowe bankructwo:
+https://cicero.de/innenpolitik/cdu-wahl-niedersachsen-angela-merkel
+Co łączy i dzieli Angelę Merkel i Emmanuela Macrona?
+http://www.spiegel.de/international/europe/interview-with-french-president-emmanuel-macron-a-1172745.html
+Czy Angela Merkel powinna brać przykład z Sebastiana Kurza?
+http://www.zeit.de/2017/42/oesterreich-wahl-sebastian-kurz-kanzler-oevp-spoe</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>13:52</itunes:duration>
+      <guid isPermalink="false">55040</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 15:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11874830" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA2rzMw0AchU31TA31jc73cAmMla1ww2IsJ0A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Recep Erdogan w Polsce witany z radością przez Prezydenta</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Adam Balcer : Turcja, to kraj, który więzi najwięcej dziennikarzy na świecie, flirtuje z Rosją, ma fatalne relacje z USA, fatalne z Niemcami. A my chcemy z nim współpracować.</itunes:summary>
+      <description>Adam Balcer : Turcja, to kraj, który więzi najwięcej dziennikarzy na świecie, flirtuje z Rosją, ma fatalne relacje z USA, fatalne z Niemcami. A my chcemy z nim współpracować.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075" />
+      <itunes:duration>24:44</itunes:duration>
+      <guid isPermalink="false">55037</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 15:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6724976" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA2rTMw0AchU31TA31jU73cAmMla1ww2FEJzA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Rozłączność monologów</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Przekonanie, że się ma stuprocentową rację, i że zwolennicy poglądów odmiennych są albo źli, albo głupi - oto przyczyna kolapsu komunikacyjnego w polskiej przestrzeni publicznej. Czy można coś na to poradzić?</itunes:summary>
+      <description>Przekonanie, że się ma stuprocentową rację, i że zwolennicy poglądów odmiennych są albo źli, albo głupi - oto przyczyna kolapsu komunikacyjnego w polskiej przestrzeni publicznej. Czy można coś na to poradzić?</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/77_1440.jpg?1499772795" />
+      <itunes:duration>14:01</itunes:duration>
+      <guid isPermalink="false">55035</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 14:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11117634" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA2qTMw0AchU31TA31jE73cAmMla1ww2DQJyg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Kim jest nowy kanclerz Austrii?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Jak w niedzielnych wyborach zagłosowali Austriacy? I kim jest Sebastian Kurz? </itunes:summary>
+      <description>Jak w niedzielnych wyborach zagłosowali Austriacy? I kim jest Sebastian Kurz? </description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>23:10</itunes:duration>
+      <guid isPermalink="false">55034</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="635885" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA2rjMw0AchU31TA31jY73cAmMla1ww2BcJyA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Grypa: zaszczepił się, a zachorował. Szczepienie nic nie daje! Prawda to czy fałsz?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Dziś ciąg dalszy o szczepieniach przeciwko grypie. Wokół  nich narosło tyle mitów,   powtarzanych z resztą nie tylko przez pacjentów, ale też przez pracowników medycznych, że warto zająć się choćby tymi najważniejszymi.  I właśnie taką weryfikacje obiegowych stwierdzeń proponuję Państwu w najbliższych odcinkach Przewodnika Medycznego. Dziś bardzo ważne - pierwsze z nich,  sprowadzające się argumentu; zaszczepił się a zachorował na grypę. Wniosek  - szczepienie nie jest skuteczne, nie warto się szczepić. Czy taki wniosek wyciągnięty z tych dwóch faktów:  szczepienie i choroba jest słuszny. Nie! Ale rzecz nie jest taka prosta: Po pierwsze:   pytanie - ile czasu minęło między szczepieniem a chorobą ? Po podaniu szczepionki 
+układ immunologiczny organizmu wytwarza własną obronę - odporność, ale to trwa  2-3 tygodnie. Jeśli ktoś zachorował trzy dni po szczepieniu, to może oznaczać, że w momencie szczepienia na 
+grypę był już w okresie jej wylęgania. Teoretycznie nawet było to do sprawdzenia - należałoby pobrać wymaz z gardła pacjenta i sprawdzić czy w ślinie jest wirus. Ale mitem byłoby też  stwierdzenie: Szczepionka chroni w 100 procentach przed infekcją.</itunes:summary>
+      <description>Dziś ciąg dalszy o szczepieniach przeciwko grypie. Wokół  nich narosło tyle mitów,   powtarzanych z resztą nie tylko przez pacjentów, ale też przez pracowników medycznych, że warto zająć się choćby tymi najważniejszymi.  I właśnie taką weryfikacje obiegowych stwierdzeń proponuję Państwu w najbliższych odcinkach Przewodnika Medycznego. Dziś bardzo ważne - pierwsze z nich,  sprowadzające się argumentu; zaszczepił się a zachorował na grypę. Wniosek  - szczepienie nie jest skuteczne, nie warto się szczepić. Czy taki wniosek wyciągnięty z tych dwóch faktów:  szczepienie i choroba jest słuszny. Nie! Ale rzecz nie jest taka prosta: Po pierwsze:   pytanie - ile czasu minęło między szczepieniem a chorobą ? Po podaniu szczepionki 
+układ immunologiczny organizmu wytwarza własną obronę - odporność, ale to trwa  2-3 tygodnie. Jeśli ktoś zachorował trzy dni po szczepieniu, to może oznaczać, że w momencie szczepienia na 
+grypę był już w okresie jej wylęgania. Teoretycznie nawet było to do sprawdzenia - należałoby pobrać wymaz z gardła pacjenta i sprawdzić czy w ślinie jest wirus. Ale mitem byłoby też  stwierdzenie: Szczepionka chroni w 100 procentach przed infekcją.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/02/07_1440.jpg?1491306846" />
+      <itunes:duration>01:19</itunes:duration>
+      <guid isPermalink="false">55033</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 13:50:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6651999" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA2qjMw0AchU31TA31jI73cAmMla1ww1_oJxg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Prześladowania Tatarów na Krymie</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Prześladowania Tatarów na Krymie</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>13:51</itunes:duration>
+      <guid isPermalink="false">55032</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 13:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="12123627" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTA2rDMw0AchU31TA31jQ73cAmMla1ww190JxA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Dlaczego USA wychodzą z UNESCO?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Dlaczego USA wychodzą z UNESCO?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114" />
+      <itunes:duration>25:15</itunes:duration>
+      <guid isPermalink="false">55031</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 13:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6819986" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTCyrDMw0AchU31TA30jS73cAmMla1ww2KYJ0g,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Branża budowlana: trudne perspektywy?</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Branża budowlana: trudne perspektywy?</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/15_1440.jpg?1504521146" />
+      <itunes:duration>14:12</itunes:duration>
+      <guid isPermalink="false">55029</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 12:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="11613615" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDKzNLawrDM1NTCyqDMw0AchU31TA30jC73cAmMla1ww2IkJ0A,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Cimoszewicz: Komisja Weryfikacyjna w starciu z Hanną Gronkiewicz-Waltz, liczy przede wszystkim na zyski polityczne
+
+</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Były premier podkreślił, że Komisja Weryfikacyjna z prawnego punktu widzenia jest sprzeczna z Konstytucją.</itunes:summary>
+      <description>Były premier podkreślił, że Komisja Weryfikacyjna z prawnego punktu widzenia jest sprzeczna z Konstytucją.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/75_1440.jpg?1496411620" />
+      <itunes:duration>24:12</itunes:duration>
+      <guid isPermalink="false">55028</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="19268970" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDIzs7QwrzM1NTAyqzMw0AchU31TA30jM73cAmMla1ww2G4JzQ,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Neutrinem w Kim Dzon Una</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Neutrinem w Kim Dzon Una</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/67_1440.jpg?1456503030" />
+      <itunes:duration>40:09</itunes:duration>
+      <guid isPermalink="false">55026</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 11:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="15937697" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDIzMjMxrDM1NTAyrzMw0AchU31TA30jc73cAmMla1ww1pkJvg,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Widowiska zmęczenia w sporcie [powtórka]</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Widowiska zmęczenia w sporcie [powtórka]</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/67_1440.jpg?1456503030" />
+      <itunes:duration>33:12</itunes:duration>
+      <guid isPermalink="false">55027</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 10:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="12245330" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDIzMja1rDM1NTAyrTMw0AchU31TA30jU73cAmMla1ww1wIJwA,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Borowski: Dokonując politycznego wyboru, społeczeństwo w 2015 roku zdecydowało na co wydamy pieniądze. Na służbę zdrowia nie ma już pieniędzy</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Borowski: Dokonując politycznego wyboru, społeczeństwo w 2015 roku zdecydowało na co wydamy pieniądze. Na służbę zdrowia nie ma już pieniędzy</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/02_1440.jpg?1505739528" />
+      <itunes:duration>25:31</itunes:duration>
+      <guid isPermalink="false">55025</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 09:20:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="7652422" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDIzNDAzrjM1NTAyqTMw0AchU31TA30jE73cAmMla1ww1eEJtQ,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Dr Janikowski: Mam nadzieję, że wszyscy będą pamiętali, że Ci młodzi lekarze rezydenci chcą dziś pracować w Polsce</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Przedstawiciel Naczelnej Rady Lekarskiej jest zdania, że jeśli rząd nie może podołać rozmowom z lekarzami rezydentami, to uważam, że do dialogu powinien włączyć się Prezydent.</itunes:summary>
+      <description>Przedstawiciel Naczelnej Rady Lekarskiej jest zdania, że jeśli rząd nie może podołać rozmowom z lekarzami rezydentami, to uważam, że do dialogu powinien włączyć się Prezydent.</description>
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/00/02_1440.jpg?1505739528" />
+      <itunes:duration>15:57</itunes:duration>
+      <guid isPermalink="false">55024</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="17333525" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDK1NLcwrjM1NTAyrjMw0AchU31TA30jY73cAmMla1ww16gJww,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Czy protest rezydentów zaszkodzi PiS? prof. Ewa Marciniak, Oliza Olczyk i Zbigniew Parafianowicz</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Czy protest rezydentów zaszkodzi PiS? prof. Ewa Marciniak, Oliza Olczyk i Zbigniew Parafianowicz</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/18_1440.jpg?1484056732" />
+      <itunes:duration>36:07</itunes:duration>
+      <guid isPermalink="false">55023</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 08:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <enclosure type="audio/mpeg" length="6542148" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDK1NLcwrjM1NTAyqjMw0AchU31TA30jI73cAmMla1ww14sJwQ,," />
+      <itunes:author>Radio TOK FM</itunes:author>
+      <title>Emilewicz: Zjednoczona Prawica musi mieć jednego kandydata na prezydenta Krakowa, żeby realnie powalczyć z prof. Majchrowskim</title>
+      <itunes:keywords>mp3</itunes:keywords>
+      <itunes:summary>Emilewicz: Zjednoczona Prawica musi mieć jednego kandydata na prezydenta Krakowa, żeby realnie powalczyć z prof. Majchrowskim</itunes:summary>
+      <description />
+      <itunes:image href="http://static.fm.tuba.pl/series/_img/00/00/00/01/18_1440.jpg?1484056732" />
+      <itunes:duration>13:38</itunes:duration>
+      <guid isPermalink="false">55022</guid>
+      <category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ostatnio dodane - Radio TOK FM</category>
+      <pubDate xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Tue, 17 Oct 2017 07:40:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <enclosure type="audio/mpeg" length="11938707" url="http://audycje.tokfm.pl/sound/eNortjI2tVIyNDWwMDQxN7YwrDM1sbSwqDMw0AchU30TS30LC73cAmMla1ww2NIJ3w,," />
       <itunes:author>Radio TOK FM</itunes:author>

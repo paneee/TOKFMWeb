@@ -37,7 +37,7 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
-    <Optimize>true</Optimize>
+    <Optimize>false</Optimize>
     <OutputPath>bin\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
@@ -146,6 +146,7 @@
     <Compile Include="Helpers\AutomaticRefreshXML.cs" />
     <Compile Include="Helpers\ParserRSS.cs" />
     <Compile Include="Helpers\Update.cs" />
+    <Compile Include="Models\Opml.cs" />
     <Compile Include="Models\ProgramView.cs" />
     <Compile Include="MoreLinq\MoreEnumerable.DistinctBy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
